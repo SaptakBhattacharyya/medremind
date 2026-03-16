@@ -1,5 +1,9 @@
 # MedRemind: Personal Medicine & Health Log
+
+
 #DEPLOYMENT LINK : https://medremind-z2yo.vercel.app/
+
+
 **Full Stack Hackathon Project**
 *Built with React, Node.js, MongoDB, OpenAI, and Pinecone (2-Day Solo Build).*
 
