@@ -44,7 +44,7 @@ export default function Signup() {
       setSuccess('Account created successfully! Redirecting to login...');
       setTimeout(() => navigate('/login'), 1500);
     } catch (err) {
-       setErrors({ general: err.message || 'An error occurred. Please try again.' });
+      setErrors({ general: err.message || 'An error occurred. Please try again.' });
     } finally {
       setLoading(false);
     }
